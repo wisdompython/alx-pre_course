@@ -1,3 +1,5 @@
+git pull
+
 this will download all the files but wont make changes to your local machine
 
 // git fetch --all
