@@ -1,0 +1,9 @@
+this will download all the files but wont make changes to your local machine
+
+// git fetch --all
+ 
+to pull a particular file
+
+for the example 
+
+git checkout origin/main -- README.md
